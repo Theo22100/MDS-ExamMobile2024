@@ -12,4 +12,4 @@ On peut lancer plusieurs minuteurs en même temps
 
 
 
-Au niveau des sources, stackoverflow pour la notif sonore, ou en cas de soucis, j'ai utilisé ChatGPT pour des problèmes de syntaxe
+Au niveau des sources, stackoverflow pour la notif sonore
